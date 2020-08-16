@@ -122,24 +122,28 @@ button:active{
 .about-text{
     width: 550px;
 }
-.about-text p:nth-child(1){
+.about-text h1{
     color:#1a1a19;
     font-family: sans-serif;
     font-weight: bold;
     font-size: 23px;
     line-height: 0px;
 }
-.about-text p:nth-child(2){
+.about-text h2{
     color:#1a1a19;
-    font-size: 13px;
+    font-size: 15px;
     font-family:sans-serif ;
     font-weight: bold;
     line-height: 5px;
 }
-.about-text p:nth-child(3), .about-text p:nth-child(4){
+ul li{
     color:#1a1919;
     font-family: sans-serif;
     font-size:16px;
+
+}
+em{
+    font-weight: bold;
 }
 .about-text button{
     width:120px;
