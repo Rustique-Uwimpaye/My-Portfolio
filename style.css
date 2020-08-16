@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background-color: #f6f5f5;
     margin: 0px;
@@ -65,7 +69,7 @@ nav ul li a:hover{
 .text-container p:nth-child(3){
     font-family: sans-serif;
     color:#1a1a19;
-    font-size:30px;
+    font-size:20px;
     line-height: 30px;
 }
 .text-container p {
@@ -131,6 +135,8 @@ button:active{
     font-weight: bold;
     font-size: 25px;
     line-height: 0px;
+    padding-bottom:1.5em;
+    text-align: center;
 
 }
 .about-text h2{
