@@ -1,6 +1,10 @@
 # Personal Portfolio
  
  This Portfolio tells more about who I am, My Academic Qualification and the skills that i have.
+
+## Author
+
+Rustique Uwimpaye
  
 ## Live Link 
 
