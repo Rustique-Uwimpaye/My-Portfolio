@@ -1,6 +1,6 @@
 # Personal Portfolio
  
- This is my first version of Portfolio, it tells more about who I am, My Academic Qualification and the skills that i have.
+This is my first version of Portfolio, it tells more about who I am, My Academic Qualification and the skills that i have.
 
 ## Author
 
