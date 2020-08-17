@@ -73,6 +73,12 @@ nav ul li a:hover{
     font-size:20px;
     line-height: 30px;
 }
+.text-container p:nth-child(4){
+    font-family: sans-serif;
+    color:#1a1a19;
+    font-size:15px;
+    line-height: 30px;
+}
 .text-container p {
     line-height: 0px;
     margin: 45px 0px 25px;
