@@ -1,7 +1,6 @@
 html{
     scroll-behavior:smooth;
 }
-
 body{
     background-color: #f6f5f5;
     margin: 0px;
@@ -333,14 +332,37 @@ footer p:nth-child(2){
 .social-icons i{
     color:black;
 }
-.social-icons a:hover{
+.social-icons a:hover, .a-social-b a:hover{
     background-color:#000000;
     box-shadow:2px 2px 12px rgba(0,0,0,0.2);
     transition:all ease 0.3s,
 }
-.social-icons a:hover i{
+.social-icons a:hover i, .a-social-b a:hover i{
     color:white;
     transition:all ease 0.3s;
+}
+.a-social-b{
+    position: fixed;
+    top:73%;
+    right:0px;
+    transform: translateY(-50%);
+}
+.a-social-b a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:40px;
+    height: 40px;
+    padding: 0px;
+    margin: 0px;
+    line-height: 0px;
+    background-color: white;
+    border:1px solid #c3c1c1;
+    box-shadow:2px 2px 12px rgba(0,0,0,0.2);
+}
+.a-social-b i{
+    color:black;
+    font-size: 20px;
 }
 .footer-bottom{
     background:rgb(24, 23, 23);
@@ -354,3 +376,4 @@ footer p:nth-child(2){
     padding-top: 20px;
     font-family: sans-serif;
     }
+    
